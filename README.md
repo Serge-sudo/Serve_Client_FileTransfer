@@ -1,4 +1,4 @@
-# Serve-Client for Huge file transfer
+# Multithread huge file transfer
 
 Server RUN: python3 server.py
 
